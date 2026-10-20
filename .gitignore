@@ -1,0 +1,4 @@
+/storage/app/*.sqlite
+/storage/app/*.sqlite-shm
+/storage/app/*.sqlite-wal
+/storage/app/datasets/*.xlsx
